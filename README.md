@@ -26,14 +26,14 @@ Backend Software Engineer | Java | Distributed Systems
 - **Languages:** Java, SQL, JavaScript
 - **Backend:** Spring Boot, REST APIs
 - **Concurrency:** Multithreading, Executors, Virtual Threads
-- **Datastores:** MySQL, Redis
+- **Datastores:** MySQL, Redis, Sybase
 - **Infra:** Docker, basic AWS, Kubernetes (learning)
 - **Tools:** Git, IntelliJ, VisualVM, JFR
 
 ### Currently working on
 - Deep diving into **Java GC, JVM memory & performance tuning**
-- Interview prep for **SDE-2 / SDE-3** roles
 - Sharing Java + backend learnings on Instagram
+- Improving system design fundamentals
 
 ### Reach me
 - 💼 LinkedIn: [Sukrita Panigrahi](https://www.linkedin.com/in/sukrita-panigrahi-27734b171/)
